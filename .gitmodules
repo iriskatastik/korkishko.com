@@ -1,3 +1,10 @@
 [submodule "themes/forty"]
 	path = themes/forty
 	url = https://github.com/MarcusVirg/forty
+[submodule "public"]
+	path = public
+	url = git@github.com:iriskatastik/iriskatastik.github.io.git
+	branch = master
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
